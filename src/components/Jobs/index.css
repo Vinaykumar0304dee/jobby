@@ -1,0 +1,79 @@
+.jobs-container {
+  background-color: #000000;
+  padding: 20px;
+  display: flex;
+  color: #ffffff;
+}
+
+.profile-img {
+  width: 50px;
+  margin: 0px;
+}
+.profile-bio {
+  color: #6366f1;
+  font-family: Roboto;
+  font-size: 16px;
+}
+
+.search-container {
+  position: relative;
+  background-color: transparent;
+  width: 250px;
+}
+
+.search-btn {
+  position: absolute;
+  right: 2px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+  font-size: 17px;
+  padding: 2px 4px 2px 4px;
+  background-color: #202020;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.search-input {
+  background-color: transparent;
+  padding: 10px;
+  width: 100%;
+  height: 30px;
+  color: #ffffff;
+  border: 1px solid #2c364c;
+  border-radius: 5px;
+  font-size: 16px;
+  outline: none;
+}
+
+.jobs-left-sec {
+  padding: 20px;
+}
+
+.profile-heading {
+  color: #6366f1;
+  font-family: Roboto;
+  margin: 0px;
+  font-size: 20px;
+}
+
+.profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  width: 260px;
+  height: 230px;
+  padding: 10px;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+
+.jobs-select-sec-heading {
+  font-size: 20px;
+  font-family: Roboto;
+}
+
+.list-container {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}

@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 60px 10px 60px;
+  background-color: #202020;
+}
+
+.paths-container {
+  display: flex;
+}
+.path-item {
+  color: #ffffff;
+  font-family: Roboto;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 20px;
+}
+.header-logo {
+  height: 40px;
+}
+
+.logout-btn {
+  background-color: #4f46e5;
+  color: #ffffff;
+  padding: 5px 16px 5px 16px;
+  border-width: 0px;
+  border-radius: 4px;
+}
