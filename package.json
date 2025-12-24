@@ -2,6 +2,7 @@
   "name": "jobby-app",
   "private": true,
   "version": "1.0.0",
+  "packageManager": "pnpm@8.15.0",
   "engines": {
     "node": "16.x"
   },
